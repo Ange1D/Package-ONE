@@ -1,0 +1,23 @@
+{
+  "name": "@ange1d/package-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ange1D/Package-ONE.git"
+  },
+  "keywords": [
+    "package",
+    "npm"
+  ],
+  "author": "Ange1D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ange1D/Package-ONE/issues"
+  },
+  "homepage": "https://github.com/Ange1D/Package-ONE#readme"
+}
